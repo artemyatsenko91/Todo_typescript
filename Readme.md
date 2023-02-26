@@ -1,1 +1,1 @@
-1
+My first Typescript App
